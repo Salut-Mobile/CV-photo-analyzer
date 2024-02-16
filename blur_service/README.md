@@ -1,0 +1,1 @@
+"почерпнуть вдохновения" - https://github.com/ML-Response-Unit/blur_artifacts_detection
