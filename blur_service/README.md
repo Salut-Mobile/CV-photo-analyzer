@@ -29,3 +29,5 @@ https://medium.com/data-science-ecom-express/a-simple-approach-for-blur-image-de
 Имплементация SVM на C++
 <br>
 https://github.com/koba-jon/svm_cpp?tab=readme-ov-file
+<br>
+edge detection, canny detector, 15x15 window, 13/11
